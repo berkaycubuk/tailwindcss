@@ -406,6 +406,7 @@ module.exports = {
       screen: '100vw',
       min: 'min-content',
       max: 'max-content',
+      fit: 'fit-content',
     }),
     zIndex: {
       auto: 'auto',
